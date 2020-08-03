@@ -19,8 +19,8 @@ vector<int> a[2];   // 입력받은 원소
 vector<int> b[2];   // 부분합 배열
 
 long long count(vector<int> &a, int num){
-    // upper_bound를 통해 중복되는 원소의 가장 끝의 위치가 나오고
-    // lower_bound를 통해 가장 처음의 위치가 나온다
+    // upper_bound를 통해 중복되는 원소의 바로 다음 원소의 위치가 나온다.
+    // lower_bound를 통해 중복되는 원소의 첫 위치가 나온다.
     // 이 둘의 차이를 구하면 중복되는 원소의 개수를 구할 수 있다.
     return upper_bound(a.begin(), a.end(), num) - lower_bound(a.begin(), a.end(), num);
 }
@@ -36,7 +36,7 @@ int main(){
     }
 
     for(int i = 0; i < 2; i++){ // 부분합 배열 만들기
-        for(int j = pow(2, a[i].size()); j > 0; j--){
+        for(int j = (1 << a[i].size()); j > 0; j--){
             int sum = 0;
             for(int k = 0; k < a[i].size(); k++){
                 if(j & (1 << k)){

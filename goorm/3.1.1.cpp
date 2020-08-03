@@ -11,7 +11,7 @@ using namespace std;
 int N, M;
 vector<int> v[200001];
 int visit[200001];
-int res[200001];
+int maxi, patient;
 
 void bfs(int n){
 
@@ -38,7 +38,10 @@ void bfs(int n){
         }
     }
 
-    res[n] = count;
+    if(maxi < count) {
+        maxi = count;
+        patient = n;
+    }
 }
 
 int main(void){
@@ -52,16 +55,8 @@ int main(void){
         v[q].push_back(p);
     }
 
-    int maxi = 0;
-    int patient = 0;
-
     for(int i = 1; i <= N; i++){
         bfs(i);
-
-        if(maxi < res[i]){
-            maxi = res[i];
-            patient = i;
-        }
     }
 
     cout << patient << " " << maxi;
