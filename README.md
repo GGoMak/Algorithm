@@ -15,6 +15,7 @@
     - goorm/1.4.2.cpp(게임 설치)
   - 완전탐색
     - goorm/1.3.1.cpp(모임)
+    - goorm/3.1.2.cpp(화학약품)
   - BFS
     - goorm/1.3.2.cpp(졸업)
     - goorm/1.4.3(스키장)
