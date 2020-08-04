@@ -31,5 +31,6 @@
   - DP
     - goorm/2.2.2.cpp(스노우보드 대회)
     - goorm/3.1.3.cpp(놀이동산)
+    - goorm/3.2.2.cpp(하모니)
   - 구현
     - goorm/3.2.1.cpp(경품 추천)
