@@ -18,14 +18,15 @@
     - goorm/3.1.2.cpp(화학약품)
   - BFS
     - goorm/1.3.2.cpp(졸업)
-    - goorm/1.4.3(스키장)
-    - goorm/3.1.1(백신)
-    - goorm/3.2.3(미로찾기)
+    - goorm/1.4.3.cpp(스키장)
+    - goorm/3.1.1.cpp(백신)
+    - goorm/3.2.3.cpp(미로찾기)
+    - goorm/3.3.2.cpp(제습제)
   - 분할정복
     - goorm/1.3.3.cpp(닭 농장)
   - 세그먼트 트리
     - goorm/2.1.1.cpp(구간 합 구하기)
-    - goorm/2.1.2.cpp(거의 최대 공약)
+    - goorm/2.1.2.cpp(거의 최대 공약수)
     - goorm/2.2.3.cpp(취약점)
   - 이분탐색
     - goorm/2.2.1.cpp(홍자TV)
