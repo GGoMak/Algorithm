@@ -35,6 +35,7 @@
     - goorm/3.1.3.cpp(놀이동산)
     - goorm/3.2.2.cpp(하모니)
     - goorm/3.3.3.cpp(분해결합)
+    - goorm/3.4.2.cpp(별들의 전쟁)
   - 구현
     - goorm/3.2.1.cpp(경품 추천)
     - goorm/3.3.1.cpp(DDR)
