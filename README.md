@@ -22,6 +22,7 @@
     - goorm/3.1.1.cpp(백신)
     - goorm/3.2.3.cpp(미로찾기)
     - goorm/3.3.2.cpp(제습제)
+    - goorm/3.4.3.cpp(벽 통과하기)
   - 분할정복
     - goorm/1.3.3.cpp(닭 농장)
   - 세그먼트 트리
@@ -37,6 +38,7 @@
     - goorm/3.3.3.cpp(분해결합)
     - goorm/3.4.2.cpp(별들의 전쟁)
   - 구현
+    - goorm/1.4.1.cpp(대기열)
     - goorm/3.2.1.cpp(경품 추천)
     - goorm/3.3.1.cpp(DDR)
   - 수학
