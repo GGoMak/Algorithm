@@ -41,5 +41,6 @@
     - goorm/1.4.1.cpp(대기열)
     - goorm/3.2.1.cpp(경품 추천)
     - goorm/3.3.1.cpp(DDR)
+    - goorm/3.5.1.cpp(온라인 강의)
   - 수학
     - goorm/3.4.1.cpp(망가진 에라토스테네스의 체)
