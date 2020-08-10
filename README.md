@@ -30,6 +30,7 @@
     - goorm/2.1.2.cpp(거의 최대 공약수)
     - goorm/2.2.3.cpp(취약점)
     - goorm/3.5.2.cpp(후회)
+    - **goorm/3.5.3.cpp(후회2)**
   - 이분탐색
     - goorm/2.2.1.cpp(홍자TV)
   - DP
