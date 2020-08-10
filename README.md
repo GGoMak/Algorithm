@@ -33,6 +33,7 @@
     - **goorm/3.5.3.cpp(후회2)**
   - 이분탐색
     - goorm/2.2.1.cpp(홍자TV)
+    - goorm/4.1.1.cpp(선별진료소)
   - DP
     - goorm/2.2.2.cpp(스노우보드 대회)
     - goorm/3.1.3.cpp(놀이동산)
