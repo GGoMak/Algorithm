@@ -50,3 +50,6 @@
     - goorm/3.4.1.cpp(망가진 에라토스테네스의 체)
   - Prim 알고리즘
     - goorm/4.1.3.cpp(전용망)
+  - LCA 알고리즘
+    - goorm/4.2.1.cpp(LCA)
+   
