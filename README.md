@@ -52,4 +52,5 @@
     - goorm/4.1.3.cpp(전용망)
   - LCA 알고리즘
     - goorm/4.2.1.cpp(LCA)
+    - **goorm/4.2.2.cpp(LCA2)**
    
