@@ -6,6 +6,7 @@
     - goorm/1.1.1.cpp(다음 타겟)
     - goorm/1.1.2.cpp(이 땅은 이제 제 겁니다)
   - Manacher 알고리즘
+    - goorm/4.3.1.cpp(회문)
     - goorm/7.3.1.cpp(앞뒤가 똑같은 부분 문자열)
   - 컨벡스 헐(Convex Hull) 알고리즘
     - goorm/1.1.3.cpp(울타리 만들기)
