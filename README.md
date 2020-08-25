@@ -55,4 +55,6 @@
     - goorm/4.2.1.cpp(LCA)
     - **goorm/4.2.2.cpp(LCA2)**
     - **goorm/4.2.3.cpp(경유지)**
+  - KMP 알고리즘
+    - **goorm/4.3.2.cpp(Ctrl+F)**
    
