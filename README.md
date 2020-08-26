@@ -18,6 +18,7 @@
     - goorm/1.3.1.cpp(모임)
     - goorm/3.1.2.cpp(화학약품)
   - BFS
+    - baekjoon/13460(구슬 탈출 2)
     - goorm/1.3.2.cpp(졸업)
     - goorm/1.4.3.cpp(스키장)
     - goorm/3.1.1.cpp(백신)
