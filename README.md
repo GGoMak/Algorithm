@@ -18,6 +18,7 @@
     - goorm/1.3.1.cpp(모임)
     - goorm/3.1.2.cpp(화학약품)
   - DFS
+    - baekjoon/12100(2048)
     - baekjoon/15997(승부예측)
   - BFS
     - baekjoon/13460(구슬 탈출 2)
