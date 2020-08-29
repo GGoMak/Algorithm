@@ -49,6 +49,7 @@
   - 구현
     - baekjoon/3190.cpp(뱀)
     - baekjoon/13458.cpp(시험 감독)
+    - baekjoon/14499.cpp(주사위 굴리기)
     - baekjoon/15953.cpp(상금 헌터)
     - baekjoon/15954.cpp(인형들)
     - goorm/1.4.1.cpp(대기열)
