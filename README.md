@@ -19,7 +19,8 @@
     - goorm/3.1.2.cpp(화학약품)
   - DFS
     - baekjoon/12100.cpp(2048)
-    - baekjoon/14500.cpp(테트로미)
+    - baekjoon/14500.cpp(테트로미노)
+    - baekjoon/14502.cpp(연구소)
     - baekjoon/15997.cpp(승부예측)
   - BFS
     - baekjoon/13460(구슬 탈출 2)
