@@ -25,6 +25,7 @@
     - baekjoon/14502.cpp(연구소)
     - baekjoon/15997.cpp(승부예측)
   - BFS
+    - baekjoon/2206.cpp(벽 부수고 이동하기)
     - baekjoon/13460(구슬 탈출 2)
     - goorm/1.3.2.cpp(졸업)
     - goorm/1.4.3.cpp(스키장)
