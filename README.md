@@ -15,6 +15,7 @@
     - goorm/1.2.3.cpp(비밀번호 찾기)
     - goorm/1.4.2.cpp(게임 설치)
   - 완전탐색
+    - baekjoon/14888.cpp(연산자 끼워넣기)
     - goorm/1.3.1.cpp(모임)
     - goorm/3.1.2.cpp(화학약품)
   - DFS
