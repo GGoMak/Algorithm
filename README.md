@@ -16,6 +16,7 @@
     - goorm/1.4.2.cpp(게임 설치)
   - 완전탐색
     - baekjoon/14888.cpp(연산자 끼워넣기)
+    - baekjoon/17070.cpp(파이프 옮기기 1)
     - goorm/1.3.1.cpp(모임)
     - goorm/3.1.2.cpp(화학약품)
   - DFS
