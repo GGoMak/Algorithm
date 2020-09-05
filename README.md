@@ -25,6 +25,7 @@
     - baekjoon/14500.cpp(테트로미노)
     - baekjoon/14502.cpp(연구소)
     - baekjoon/15997.cpp(승부예측)
+    - baekjoon/17136.cpp(색종이 붙이기)
   - BFS
     - baekjoon/2206.cpp(벽 부수고 이동하기)
     - baekjoon/13460(구슬 탈출 2)
