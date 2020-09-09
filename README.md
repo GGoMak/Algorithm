@@ -71,6 +71,7 @@
     - goorm/3.2.1.cpp(경품 추천)
     - goorm/3.3.1.cpp(DDR)
     - goorm/3.5.1.cpp(온라인 강의)
+    - kakao/2019.1.cpp(오픈채팅방)
     - kakao/2020.1.cpp(문자열 압축)
     - kakao/2020.2.cpp(괄호 변환)
     - kakao/2020.3.cpp(자물쇠와 열쇠)
