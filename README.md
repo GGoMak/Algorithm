@@ -73,6 +73,7 @@
     - goorm/3.5.1.cpp(온라인 강의)
     - kakao/2019.1.cpp(오픈채팅방)
     - kakao/2019.2.cpp(실패율)
+    - kakao/2019.3.cpp(후보키)
     - kakao/2019.4.cpp(무지의 먹방 라이브)
     - kakao/2019.5.cpp(길 찾기 게임)
     - kakao/2020.1.cpp(문자열 압축)
