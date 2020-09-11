@@ -76,6 +76,7 @@
     - kakao/2019.3.cpp(후보키)
     - kakao/2019.4.cpp(무지의 먹방 라이브)
     - kakao/2019.5.cpp(길 찾기 게임)
+    - kakao/2019.inter1.cpp(크레인 인형뽑기 게임)
     - kakao/2020.1.cpp(문자열 압축)
     - kakao/2020.2.cpp(괄호 변환)
     - kakao/2020.3.cpp(자물쇠와 열쇠)
