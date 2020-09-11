@@ -78,6 +78,7 @@
     - kakao/2019.5.cpp(길 찾기 게임)
     - kakao/2019.intern1.cpp(크레인 인형뽑기 게임)
     - kakao/2019.intern2.cpp(튜플)
+    - kakao/2019.intern3.cpp(불량 사용자)
     - kakao/2020.1.cpp(문자열 압축)
     - kakao/2020.2.cpp(괄호 변환)
     - kakao/2020.3.cpp(자물쇠와 열쇠)
