@@ -25,6 +25,7 @@
     - baekjoon/14500.cpp(테트로미노)
     - baekjoon/14502.cpp(연구소)
     - baekjoon/15683.cpp(감시)
+    - baekjoon/15684.cpp(사다리 조작)
     - baekjoon/15997.cpp(승부예측)
     - baekjoon/17136.cpp(색종이 붙이기)
   - BFS
