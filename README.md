@@ -65,6 +65,7 @@
     - baekjoon/14503.cpp(로봇 청소기)
     - baekjoon/14890.cpp(경사로)
     - baekjoon/14891.cpp(톱니바퀴)
+    - baekjoon/15686.cpp(치킨 배달)
     - baekjoon/15953.cpp(상금 헌터)
     - baekjoon/15954.cpp(인형들)
     - baekjoon/16637.cpp(괄호 추가하기)
