@@ -69,6 +69,7 @@
     - baekjoon/15686.cpp(치킨 배달)
     - baekjoon/15953.cpp(상금 헌터)
     - baekjoon/15954.cpp(인형들)
+    - baekjoon/16234.cpp(인구 이동)
     - baekjoon/16637.cpp(괄호 추가하기)
     - baekjoon/17135.cpp(캐슬 디펜스)
     - baekjoon/17281.cpp(야구)
