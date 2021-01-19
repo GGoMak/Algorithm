@@ -33,6 +33,7 @@
     - baekjoon/2206.cpp(벽 부수고 이동하기)
     - baekjoon/13460(구슬 탈출 2)
     - baekjoon/16236.cpp(아기 상어)
+    - baekjoon/19238.cpp(스타트 택시)
     - goorm/1.3.2.cpp(졸업)
     - goorm/1.4.3.cpp(스키장)
     - goorm/3.1.1.cpp(백신)
