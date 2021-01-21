@@ -78,6 +78,7 @@
     - baekjoon/17143.cpp(낚시왕)
     - baekjoon/17144.cpp(미세먼지 안녕!)
     - baekjoon/17281.cpp(야구)
+    - baekjoon/baekjoon17779.java(게리멘더링 2)
     - goorm/1.4.1.cpp(대기열)
     - goorm/3.2.1.cpp(경품 추천)
     - goorm/3.3.1.cpp(DDR)
