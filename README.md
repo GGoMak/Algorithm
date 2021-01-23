@@ -99,6 +99,7 @@
     - kakao/2020.5.cpp(기둥과 보 설치)
     - kakao/2020.6.cpp(외벽 점검)
     - kakao/programmersFriends4Block.java(프렌즈4블록)
+    - kakao/programmers뉴스클러스터링(뉴스클러스터링)
   - 수학
     - goorm/3.4.1.cpp(망가진 에라토스테네스의 체)
   - Prim 알고리즘
