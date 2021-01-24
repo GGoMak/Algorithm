@@ -31,6 +31,7 @@
     - baekjoon/17136.cpp(색종이 붙이기)
   - BFS
     - baekjoon/2206.cpp(벽 부수고 이동하기)
+    - baekjoon/baekjoon3055.java(탈출)
     - baekjoon/13460(구슬 탈출 2)
     - baekjoon/16236.cpp(아기 상어)
     - baekjoon/19238.cpp(스타트 택시)
