@@ -62,6 +62,7 @@
     - goorm/3.3.3.cpp(분해결합)
     - goorm/3.4.2.cpp(별들의 전쟁)
   - 구현
+    - baekjoon/baekjoon1713.java(후보 추천하기)
     - baekjoon/baekjoon2108.java(통계학)
     - baekjoon/3190.cpp(뱀)
     - baekjoon/5373.cpp(큐빙)
