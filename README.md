@@ -30,6 +30,7 @@
     - baekjoon/15997.cpp(승부예측)
     - baekjoon/17136.cpp(색종이 붙이기)
   - BFS
+    - baekjoon/baekjoon1039.java(교환)
     - baekjoon/2206.cpp(벽 부수고 이동하기)
     - baekjoon/baekjoon3055.java(탈출)
     - baekjoon/13460(구슬 탈출 2)
