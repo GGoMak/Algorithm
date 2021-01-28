@@ -67,6 +67,7 @@
     - baekjoon/baekjoon1062.java(가르침)
     - baekjoon/baekjoon1713.java(후보 추천하기)
     - baekjoon/baekjoon2108.java(통계학)
+    - baekjoon/baekjoon2775.java(부녀회장이 될테야)
     - baekjoon/baekjoon3425.java(고스택)
     - baekjoon/3190.cpp(뱀)
     - baekjoon/5373.cpp(큐빙)
