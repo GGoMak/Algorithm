@@ -20,6 +20,7 @@
     - goorm/1.3.1.cpp(모임)
     - goorm/3.1.2.cpp(화학약품)
   - DFS
+    - baekjoon/baekjoon1260.java(DFS와 BFS)
     - baekjoon/12100.cpp(2048)
     - baekjoon/14889.cpp(스타트와 링크)
     - baekjoon/14500.cpp(테트로미노)
@@ -31,6 +32,7 @@
     - baekjoon/17136.cpp(색종이 붙이기)
   - BFS
     - baekjoon/baekjoon1039.java(교환)
+    - baekjoon/baekjoon1260.java(DFS와 BFS)
     - baekjoon/2206.cpp(벽 부수고 이동하기)
     - baekjoon/baekjoon3055.java(탈출)
     - baekjoon/13460(구슬 탈출 2)
