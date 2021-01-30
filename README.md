@@ -76,6 +76,7 @@
     - baekjoon/5373.cpp(큐빙)
     - baekjoon/baekjoon10814.java(나이순 정렬)
     - baekjoon/baekjoon10814_1.java(나이순 정렬) : 최적화
+    - baekjoon/baekjoon11866.java(요세푸스 문제 0)
     - baekjoon/13458.cpp(시험 감독)
     - baekjoon/14499.cpp(주사위 굴리기)
     - baekjoon/14503.cpp(로봇 청소기)
