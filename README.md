@@ -58,6 +58,7 @@
     - goorm/3.5.2.cpp(후회)
     - **goorm/3.5.3.cpp(후회2)**
   - 이분탐색
+    - baekjoon/baekjoon1072.java(게임)
     - baekjoon/baekjoon2805.java(나무 자르기)
     - goorm/2.2.1.cpp(홍자TV)
     - goorm/4.1.1.cpp(선별진료소)
