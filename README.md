@@ -68,6 +68,7 @@
     - goorm/3.4.2.cpp(별들의 전쟁)
   - 구현
     - baekjoon/baekjoon1062.java(가르침)
+    - baekjoon/BOJ_1244.java(스위치 켜고 끄기)
     - baekjoon/baekjoon1713.java(후보 추천하기)
     - baekjoon/BOJ_1920.java(수 찾기)
     - baekjoon/baekjoon2108.java(통계학)
