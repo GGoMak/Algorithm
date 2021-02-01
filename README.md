@@ -76,6 +76,7 @@
     - baekjoon/baekjoon1713.java(후보 추천하기)
     - baekjoon/BOJ_1920.java(수 찾기)
     - baekjoon/baekjoon2108.java(통계학)
+    - baekjoon/BOJ_2521_카드게임.java
     - baekjoon/baekjoon2775.java(부녀회장이 될테야)
     - baekjoon/baekjoon3425.java(고스택)
     - baekjoon/3190.cpp(뱀)
