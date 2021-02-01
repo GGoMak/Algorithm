@@ -23,6 +23,7 @@
     - goorm/3.1.2.cpp(화학약품)
   - DFS
     - baekjoon/baekjoon1260.java(DFS와 BFS)
+    - baekjoon/BOJ_9663.java(N-Queen)
     - baekjoon/12100.cpp(2048)
     - baekjoon/14889.cpp(스타트와 링크)
     - baekjoon/14500.cpp(테트로미노)
