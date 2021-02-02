@@ -36,6 +36,7 @@
   - BFS
     - baekjoon/baekjoon1039.java(교환)
     - baekjoon/baekjoon1260.java(DFS와 BFS)
+    - baekjoon/BOJ_2606_바이러스.java(바이러스)
     - baekjoon/2206.cpp(벽 부수고 이동하기)
     - baekjoon/baekjoon3055.java(탈출)
     - baekjoon/13460(구슬 탈출 2)
