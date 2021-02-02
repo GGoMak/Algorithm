@@ -82,6 +82,7 @@
     - baekjoon/BOJ_1244.java(스위치 켜고 끄기)
     - baekjoon/baekjoon1713.java(후보 추천하기)
     - baekjoon/BOJ_1920.java(수 찾기)
+    - baekjoon/BOJ_1966_프린터큐.java(프린터 큐)
     - baekjoon/baekjoon2108.java(통계학)
     - baekjoon/BOJ_2521_카드게임.java
     - baekjoon/baekjoon2775.java(부녀회장이 될테야)
