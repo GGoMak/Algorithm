@@ -52,6 +52,7 @@
     - kakao/2020.7.cpp(블록 이동하기)
   - 백트래킹
     - baekjoon/BOJ_15651_N과M3.java(N과 M (3))
+    - baekjoon/BOJ_15656_N과M7.java(N과 M (7))
   - 분할정복
     - goorm/1.3.3.cpp(닭 농장)
   - 세그먼트 트리
