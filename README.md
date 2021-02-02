@@ -16,9 +16,8 @@
     - goorm/1.2.2.cpp(수열 만들기)
     - goorm/1.2.3.cpp(비밀번호 찾기)
     - goorm/1.4.2.cpp(게임 설치)
-  - 브루트포스
+  - 완전탐색(브루트포스)
     - baekjoon/BOJ_1018_체스판다시칠하기(체스판 다시 칠하기)
-  - 완전탐색
     - baekjoon/14888.cpp(연산자 끼워넣기)
     - baekjoon/17070.cpp(파이프 옮기기 1)
     - goorm/1.3.1.cpp(모임)
@@ -66,6 +65,7 @@
     - **goorm/3.5.3.cpp(후회2)**
   - 이분탐색
     - baekjoon/baekjoon1072.java(게임)
+    - baekjoon/BOJ_1654_랜선자르기.java(랜선 자르기)
     - baekjoon/baekjoon2805.java(나무 자르기)
     - goorm/2.2.1.cpp(홍자TV)
     - goorm/4.1.1.cpp(선별진료소)
