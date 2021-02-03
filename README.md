@@ -102,6 +102,7 @@
     - baekjoon/14890.cpp(경사로)
     - baekjoon/14891.cpp(톱니바퀴)
     - baekjoon/15686.cpp(치킨 배달)
+    - baekjoon/BOJ_15686_치킨배달_G5.java(치킨 배달) : 자바
     - baekjoon/15953.cpp(상금 헌터)
     - baekjoon/15954.cpp(인형들)
     - baekjoon/16234.cpp(인구 이동)
