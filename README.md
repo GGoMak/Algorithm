@@ -13,6 +13,7 @@
   - 재귀
     - baekjoon/BOJ_17478.java(재귀함수가 뭔가요?)
   - 그리디 알고리즘
+    - baekjoon/BOJ_1339_단어수학.java(단어 수학)
     - goorm/1.2.2.cpp(수열 만들기)
     - goorm/1.2.3.cpp(비밀번호 찾기)
     - goorm/1.4.2.cpp(게임 설치)
