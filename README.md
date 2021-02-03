@@ -53,6 +53,7 @@
     - kakao/2020.7.cpp(블록 이동하기)
   - 백트래킹
     - baekjoon/BOJ_1182_부분수열의합.java(부분수열의 합)
+    - baekjoon/BOJ_1759_암호만들기.java(암호 만들기)
     - baekjoon/BOJ_15651_N과M3.java(N과 M (3))
     - baekjoon/BOJ_15656_N과M7.java(N과 M (7))
   - 분할정복
