@@ -57,6 +57,7 @@
     - baekjoon/BOJ_1759_암호만들기.java(암호 만들기)
     - baekjoon/BOJ_2580_스도쿠.java(스도쿠)
     - baekjoon/BOJ_15649_N과M1_S3.java
+    - baekjoon/BOJ_15649_N과M2_S3.java
     - baekjoon/BOJ_15651_N과M3.java(N과 M (3))
     - baekjoon/BOJ_15656_N과M7.java(N과 M (7))
   - 분할정복
