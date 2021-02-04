@@ -115,6 +115,7 @@
     - baekjoon/17144.cpp(미세먼지 안녕!)
     - baekjoon/17281.cpp(야구)
     - baekjoon/BOJ_17779_게리맨더링2_G4.java
+    - baekjoon/BOJ_20055_컨베이어벨트위의로봇_S1.java
     - goorm/1.4.1.cpp(대기열)
     - goorm/3.2.1.cpp(경품 추천)
     - goorm/3.3.1.cpp(DDR)
