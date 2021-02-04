@@ -11,21 +11,21 @@
   - 컨벡스 헐(Convex Hull) 알고리즘
     - goorm/1.1.3.cpp(울타리 만들기)
   - 재귀
-    - baekjoon/BOJ_17478.java(재귀함수가 뭔가요?)
+    - baekjoon/BOJ_17478_재귀함수가뭔가요_S5.java
   - 그리디 알고리즘
-    - baekjoon/BOJ_1339_단어수학.java(단어 수학)
+    - baekjoon/BOJ_1339_단어수학_G4.java
     - goorm/1.2.2.cpp(수열 만들기)
     - goorm/1.2.3.cpp(비밀번호 찾기)
     - goorm/1.4.2.cpp(게임 설치)
   - 완전탐색(브루트포스)
-    - baekjoon/BOJ_1018_체스판다시칠하기(체스판 다시 칠하기)
+    - baekjoon/BOJ_1018_체스판다시칠하기_S5.java
     - baekjoon/14888.cpp(연산자 끼워넣기)
     - baekjoon/17070.cpp(파이프 옮기기 1)
     - goorm/1.3.1.cpp(모임)
     - goorm/3.1.2.cpp(화학약품)
   - DFS
-    - baekjoon/baekjoon1260.java(DFS와 BFS)
-    - baekjoon/BOJ_9663.java(N-Queen)
+    - baekjoon/BOJ_1260_DFS와BFS_S2.java
+    - baekjoon/BOJ_9663_N-Queen_G5.java
     - baekjoon/12100.cpp(2048)
     - baekjoon/14889.cpp(스타트와 링크)
     - baekjoon/14500.cpp(테트로미노)
@@ -36,12 +36,12 @@
     - baekjoon/15997.cpp(승부예측)
     - baekjoon/17136.cpp(색종이 붙이기)
   - BFS
-    - baekjoon/baekjoon1039.java(교환)
-    - baekjoon/baekjoon1260.java(DFS와 BFS)
-    - baekjoon/BOJ_2606_바이러스.java(바이러스)
+    - baekjoon/BOJ_1039_교환_G3.java
+    - baekjoon/BOJ_1260_DFS와BFS_S2.java
+    - baekjoon/BOJ_2606_바이러스_S3.java
     - baekjoon/2206.cpp(벽 부수고 이동하기)
-    - baekjoon/baekjoon3055.java(탈출)
-    - baekjoon/13460(구슬 탈출 2)
+    - baekjoon/BOJ_3055_탈출_G5.java
+    - baekjoon/13460.cpp(구슬 탈출 2)
     - baekjoon/16236.cpp(아기 상어)
     - baekjoon/19238.cpp(스타트 택시)
     - goorm/1.3.2.cpp(졸업)
@@ -53,13 +53,13 @@
     - goorm/4.1.2.cpp(물약제조)
     - kakao/2020.7.cpp(블록 이동하기)
   - 백트래킹
-    - baekjoon/BOJ_1182_부분수열의합.java(부분수열의 합)
-    - baekjoon/BOJ_1759_암호만들기.java(암호 만들기)
-    - baekjoon/BOJ_2580_스도쿠.java(스도쿠)
+    - baekjoon/BOJ_1182_부분수열의합_S2.java
+    - baekjoon/BOJ_1759_암호만들기_G5.java
+    - baekjoon/BOJ_2580_스도쿠_G4.java
     - baekjoon/BOJ_15649_N과M1_S3.java
-    - baekjoon/BOJ_15649_N과M2_S3.java
-    - baekjoon/BOJ_15651_N과M3.java(N과 M (3))
-    - baekjoon/BOJ_15656_N과M7.java(N과 M (7))
+    - baekjoon/BOJ_15650_N과M2_S3.java
+    - baekjoon/BOJ_15651_N과M3_S3.java
+    - baekjoon/BOJ_15656_N과M7_S3.java
   - 분할정복
     - goorm/1.3.3.cpp(닭 농장)
   - 세그먼트 트리
@@ -69,13 +69,13 @@
     - goorm/3.5.2.cpp(후회)
     - **goorm/3.5.3.cpp(후회2)**
   - 이분탐색
-    - baekjoon/baekjoon1072.java(게임)
-    - baekjoon/BOJ_1654_랜선자르기.java(랜선 자르기)
-    - baekjoon/baekjoon2805.java(나무 자르기)
+    - baekjoon/BOJ_1072_게임_S3.java
+    - baekjoon/BOJ_1654_랜선자르기_S3.java
+    - baekjoon/BOJ_2805_나무자르기_S3.java
     - goorm/2.2.1.cpp(홍자TV)
     - goorm/4.1.1.cpp(선별진료소)
   - DP
-    - baekjoon/baekjoon1103.java(게임)
+    - baekjoon/BOJ_1103_게임_G1.java
     - **baekjoon/14501.cpp(퇴사)**
     - goorm/2.2.2.cpp(스노우보드 대회)
     - goorm/3.1.3.cpp(놀이동산)
@@ -83,21 +83,21 @@
     - goorm/3.3.3.cpp(분해결합)
     - goorm/3.4.2.cpp(별들의 전쟁)
   - 구현
-    - baekjoon/baekjoon1062.java(가르침)
-    - baekjoon/BOJ_1244.java(스위치 켜고 끄기)
-    - baekjoon/baekjoon1713.java(후보 추천하기)
-    - baekjoon/BOJ_1920.java(수 찾기)
-    - baekjoon/BOJ_1966_프린터큐.java(프린터 큐)
-    - baekjoon/BOJ_2609_최대공약수와최소공배수.java(최대공약수와 최소공배수)
-    - baekjoon/baekjoon2108.java(통계학)
-    - baekjoon/BOJ_2521_카드게임.java
-    - baekjoon/baekjoon2775.java(부녀회장이 될테야)
-    - baekjoon/baekjoon3425.java(고스택)
+    - baekjoon/BOJ_1062_가르침_G4.java
+    - baekjoon/BOJ_1244_스위치켜고끄기_S4.java
+    - baekjoon/BOJ_1713_후보추천하기_S2.java
+    - baekjoon/BOJ_1920_수찾기_S4.java
+    - baekjoon/BOJ_1966_프린터큐_S3.java
+    - baekjoon/BOJ_2609_최대공약수와최소공배수_S5.java
+    - baekjoon/BOJ_2108_통계학_S4.java
+    - baekjoon/BOJ_2621_카드게임_S5.java
+    - baekjoon/BOJ_2775_부녀회장이될테야_B2.java
+    - baekjoon/BOJ_3425_고스택_G2.java
     - baekjoon/3190.cpp(뱀)
     - baekjoon/5373.cpp(큐빙)
-    - baekjoon/baekjoon10814.java(나이순 정렬)
-    - baekjoon/baekjoon10814_1.java(나이순 정렬) : 최적화
-    - baekjoon/baekjoon11866.java(요세푸스 문제 0)
+    - baekjoon/BOJ_10814_나이순정렬_S5.java
+    - baekjoon/BOJ_10814_나이순정렬_S5_1.java : 최적화
+    - baekjoon/BOJ_11866_요세푸스문제0_S4
     - baekjoon/13458.cpp(시험 감독)
     - baekjoon/14499.cpp(주사위 굴리기)
     - baekjoon/14503.cpp(로봇 청소기)
@@ -114,7 +114,7 @@
     - baekjoon/17143.cpp(낚시왕)
     - baekjoon/17144.cpp(미세먼지 안녕!)
     - baekjoon/17281.cpp(야구)
-    - baekjoon/baekjoon17779.java(게리멘더링 2)
+    - baekjoon/BOJ_17779_게리맨더링2_G4.java
     - goorm/1.4.1.cpp(대기열)
     - goorm/3.2.1.cpp(경품 추천)
     - goorm/3.3.1.cpp(DDR)
