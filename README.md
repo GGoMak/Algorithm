@@ -88,6 +88,7 @@
     - baekjoon/BOJ_1062_가르침_G4.java
     - baekjoon/BOJ_1244_스위치켜고끄기_S4.java
     - baekjoon/BOJ_1713_후보추천하기_S2.java
+    - baekjoon/BOJ_1806_부분합_G4.java
     - baekjoon/BOJ_1920_수찾기_S4.java
     - baekjoon/BOJ_1966_프린터큐_S3.java
     - baekjoon/BOJ_2003_수들의합_S3.java
