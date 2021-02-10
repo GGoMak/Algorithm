@@ -46,6 +46,7 @@
     - baekjoon/13460.cpp(구슬 탈출 2)
     - baekjoon/16236.cpp(아기 상어)
     - baekjoon/19238.cpp(스타트 택시)
+    - baekjoon/20304_비밀번호제작_G1.java
     - goorm/1.3.2.cpp(졸업)
     - goorm/1.4.3.cpp(스키장)
     - goorm/3.1.1.cpp(백신)
