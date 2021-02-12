@@ -89,6 +89,7 @@
   - 구현
     - baekjoon/BOJ_1062_가르침_G4.java
     - baekjoon/BOJ_1244_스위치켜고끄기_S4.java
+    - baekjoon/BOJ_1436_영화감독숌_S5.java
     - baekjoon/BOJ_1713_후보추천하기_S2.java
     - baekjoon/BOJ_1806_부분합_G4.java
     - baekjoon/BOJ_1920_수찾기_S4.java
