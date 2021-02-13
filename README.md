@@ -98,6 +98,7 @@
     - baekjoon/BOJ_2003_수들의합2_S3_1.java : 최적화(투 포인터)
     - baekjoon/BOJ_2108_통계학_S4.java
     - baekjoon/BOJ_2231_분해합_B2.java
+    - baekjoon/BOJ_2304_창고다각형_S2.java
     - baekjoon/BOJ_2609_최대공약수와최소공배수_S5.java
     - baekjoon/BOJ_2621_카드게임_S5.java
     - baekjoon/BOJ_2697_다음수구하기_S3.java
