@@ -142,6 +142,7 @@
     - baekjoon/BOJ_20055_컨베이어벨트위의로봇_S1.java
     - baekjoon/BOJ_20056_마법사상어와파이어볼_G5.java
     - baekjoon/BOJ_20057_마법사상어와토네이도_G4.java
+    - baekjoon/BOJ_20058_마법사상어와파이어스톰_G4.java
     - goorm/1.4.1.cpp(대기열)
     - goorm/3.2.1.cpp(경품 추천)
     - goorm/3.3.1.cpp(DDR)
