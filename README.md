@@ -22,6 +22,7 @@
     - baekjoon/BOJ_2504_괄고의값_S2.java
   - 완전탐색(브루트포스)
     - baekjoon/BOJ_1018_체스판다시칠하기_S5.java
+    - baekjoon/BOJ_2961_도영이가만든맛있는음식_S1.java
     - baekjoon/14888.cpp(연산자 끼워넣기)
     - baekjoon/17070.cpp(파이프 옮기기 1)
     - goorm/1.3.1.cpp(모임)
