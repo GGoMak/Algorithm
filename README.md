@@ -19,6 +19,7 @@
     - goorm/1.4.2.cpp(게임 설치)
   - 스택
     - baekjoon/BOJ_2493_탑_G5.java
+    - baekjoon/BOJ_2504_괄고의값_S2.java
   - 완전탐색(브루트포스)
     - baekjoon/BOJ_1018_체스판다시칠하기_S5.java
     - baekjoon/14888.cpp(연산자 끼워넣기)
