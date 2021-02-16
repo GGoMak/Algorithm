@@ -171,6 +171,8 @@
     - kakao/programmers셔틀버스.java(셔틀버스)
   - 수학
     - goorm/3.4.1.cpp(망가진 에라토스테네스의 체)
+  - Knapsack 알고리즘
+    - baekjoon/BOJ_12865_평범한배낭_G5.java
   - Prim 알고리즘
     - goorm/4.1.3.cpp(전용망)
   - LCA 알고리즘
