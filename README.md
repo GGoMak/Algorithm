@@ -14,6 +14,7 @@
     - baekjoon/BOJ_17478_재귀함수가뭔가요_S5.java
   - 그리디 알고리즘
     - baekjoon/BOJ_1339_단어수학_G4.java
+    - baekjoon/BOJ_1931_회의실배정_S2.java
     - goorm/1.2.2.cpp(수열 만들기)
     - goorm/1.2.3.cpp(비밀번호 찾기)
     - goorm/1.4.2.cpp(게임 설치)
