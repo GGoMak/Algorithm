@@ -69,6 +69,7 @@
     - baekjoon/BOJ_15651_N과M3_S3.java
     - baekjoon/BOJ_15656_N과M7_S3.java
   - 분할정복
+    - baekjoon/BOJ_1629_곱셈_S1.java
     - goorm/1.3.3.cpp(닭 농장)
   - 세그먼트 트리
     - goorm/2.1.1.cpp(구간 합 구하기)
