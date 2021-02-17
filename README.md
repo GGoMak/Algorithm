@@ -71,6 +71,7 @@
   - 분할정복
     - baekjoon/BOJ_1629_곱셈_S1.java
     - baekjoon/BOJ_1074_Z_S1.java
+    - baekjoon/BOJ_1992_쿼드트리_S1.java
     - goorm/1.3.3.cpp(닭 농장)
   - 세그먼트 트리
     - goorm/2.1.1.cpp(구간 합 구하기)
