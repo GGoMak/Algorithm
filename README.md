@@ -30,6 +30,7 @@
     - goorm/3.1.2.cpp(화학약품)
   - DFS
     - baekjoon/BOJ_1260_DFS와BFS_S2.java
+    - baekjoon/BOJ_1325_효율적인해킹_S2.java
     - baekjoon/BOJ_1987_알파벳_G4.java
     - baekjoon/BOJ_9663_N-Queen_G5.java
     - baekjoon/12100.cpp(2048)
