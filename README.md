@@ -49,6 +49,7 @@
     - baekjoon/BOJ_2606_바이러스_S3.java
     - baekjoon/2206.cpp(벽 부수고 이동하기)
     - baekjoon/BOJ_3055_탈출_G5.java
+    - baekjoon/BOJ_5427_불_G4.java
     - baekjoon/BOJ_7562_나이트의이동_S2.java
     - baekjoon/13460.cpp(구슬 탈출 2)
     - baekjoon/16236.cpp(아기 상어)
