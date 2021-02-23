@@ -21,6 +21,8 @@
   - 스택
     - baekjoon/BOJ_2493_탑_G5.java
     - baekjoon/BOJ_2504_괄고의값_S2.java
+  - 트리
+    - baekjoon/BOJ_1991_트리순회_S1.java
   - 완전탐색(브루트포스)
     - baekjoon/BOJ_1018_체스판다시칠하기_S5.java
     - baekjoon/BOJ_2961_도영이가만든맛있는음식_S1.java
