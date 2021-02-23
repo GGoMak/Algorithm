@@ -79,6 +79,7 @@
     - baekjoon/BOJ_1992_쿼드트리_S1.java
     - goorm/1.3.3.cpp(닭 농장)
   - 세그먼트 트리
+    - baekjoon/BOJ_2042_구간합구하기_G1.java
     - goorm/2.1.1.cpp(구간 합 구하기)
     - goorm/2.1.2.cpp(거의 최대 공약수)
     - goorm/2.2.3.cpp(취약점)
