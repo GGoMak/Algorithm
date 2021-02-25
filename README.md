@@ -49,11 +49,12 @@
     - baekjoon/BOJ_1039_교환_G3.java
     - baekjoon/BOJ_1260_DFS와BFS_S2.java
     - baekjoon/BOJ_2178_미로탐색_S1.java
-    - baekjoon/BOJ_2606_바이러스_S3.java
     - baekjoon/2206.cpp(벽 부수고 이동하기)
+    - baekjoon/BOJ_2606_바이러스_S3.java
     - baekjoon/BOJ_3055_탈출_G5.java
     - baekjoon/BOJ_5427_불_G4.java
     - baekjoon/BOJ_7562_나이트의이동_S2.java
+    - baekjoon/BOJ_7576_토마토_S1.java
     - baekjoon/13460.cpp(구슬 탈출 2)
     - baekjoon/16236.cpp(아기 상어)
     - baekjoon/19238.cpp(스타트 택시)
