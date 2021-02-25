@@ -45,6 +45,7 @@
     - baekjoon/15997.cpp(승부예측)
     - baekjoon/17136.cpp(색종이 붙이기)
   - BFS
+    - baekjoon/BOJ_1012_유기농배추_S1.java
     - baekjoon/BOJ_1039_교환_G3.java
     - baekjoon/BOJ_1260_DFS와BFS_S2.java
     - baekjoon/BOJ_2178_미로탐색_S1.java
