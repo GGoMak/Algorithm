@@ -106,6 +106,7 @@
     - goorm/3.4.2.cpp(별들의 전쟁)
   - 구현
     - baekjoon/BOJ_1062_가르침_G4.java
+    - baekjoon/BOJ_1174_줄어드는숫자_S1.java
     - baekjoon/BOJ_1244_스위치켜고끄기_S4.java
     - baekjoon/BOJ_1431_시리얼번호_S3.java
     - baekjoon/BOJ_1436_영화감독숌_S5.java
