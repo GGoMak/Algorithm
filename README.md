@@ -21,6 +21,7 @@
   - 스택
     - baekjoon/BOJ_2493_탑_G5.java
     - baekjoon/BOJ_2504_괄고의값_S2.java
+    - baekjoon/BOJ_9935_문자열폭발_G4.java
   - 트리
     - baekjoon/BOJ_1991_트리순회_S1.java
   - 완전탐색(브루트포스)
