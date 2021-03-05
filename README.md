@@ -115,7 +115,7 @@
     - baekjoon/BOJ_1713_후보추천하기_S2.java
     - baekjoon/BOJ_1806_부분합_G4.java
     - baekjoon/BOJ_1920_수찾기_S4.java
-    - baekjoon/BOJ_1927_최소힙_s1.java
+    - baekjoon/BOJ_1927_최소힙_S1.java
     - baekjoon/BOJ_1966_프린터큐_S3.java
     - baekjoon/BOJ_2003_수들의합_S3.java
     - baekjoon/BOJ_2003_수들의합2_S3_1.java : 최적화(투 포인터)
@@ -139,6 +139,7 @@
     - baekjoon/BOJ_7568_덩치_S5.java
     - baekjoon/BOJ_10814_나이순정렬_S5.java
     - baekjoon/BOJ_10814_나이순정렬_S5_1.java : 최적화
+    - baekjoon/BOJ_11279_최대힙_S2.java
     - baekjoon/BOJ_11652_카드_S4.java
     - baekjoon/BOJ_11866_요세푸스문제0_S4
     - baekjoon/13458.cpp(시험 감독)
