@@ -13,6 +13,7 @@
   - 재귀
     - baekjoon/BOJ_17478_재귀함수가뭔가요_S5.java
   - 그리디 알고리즘
+    - baekjoon/BOJ_1202_보석도둑_G2.java
     - baekjoon/BOJ_1339_단어수학_G4.java
     - baekjoon/BOJ_1931_회의실배정_S2.java
     - goorm/1.2.2.cpp(수열 만들기)
