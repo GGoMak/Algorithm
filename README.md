@@ -83,6 +83,7 @@
     - baekjoon/BOJ_1992_쿼드트리_S1.java
     - goorm/1.3.3.cpp(닭 농장)
   - 세그먼트 트리
+    - baekjoon/BOJ_1275_커피숍2_G1.java
     - baekjoon/BOJ_2042_구간합구하기_G1.java
     - baekjoon/BOJ_2517_달리기_P4.java
     - goorm/2.1.1.cpp(구간 합 구하기)
