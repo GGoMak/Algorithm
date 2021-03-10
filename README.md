@@ -128,6 +128,7 @@
     - baekjoon/BOJ_2143_두배열의합_G3.java
     - baekjoon/BOJ_2231_분해합_B2.java
     - baekjoon/BOJ_2304_창고다각형_S2.java
+    - baekjoon/BOJ_2346_풍선터뜨리기_S3.java
     - baekjoon/BOJ_2609_최대공약수와최소공배수_S5.java
     - baekjoon/BOJ_2621_카드게임_S5.java
     - baekjoon/BOJ_2697_다음수구하기_S3.java
