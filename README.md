@@ -140,6 +140,7 @@
     - baekjoon/BOJ_3425_고스택_G2.java
     - baekjoon/BOJ_3613_JavavsC_S5.java(Java vs C++)
     - baekjoon/5373.cpp(큐빙)
+    - baekjoon/BOJ_5430_AC_S2.java
     - baekjoon/BOJ_5525_IOIOI_S2.java
     - baekjoon/BOJ_5525_IOIOI_S2_1.java : 개선된 풀이
     - baekjoon/BOJ_7568_덩치_S5.java
