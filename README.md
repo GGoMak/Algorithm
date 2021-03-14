@@ -97,6 +97,8 @@
     - goorm/2.2.3.cpp(취약점)
     - goorm/3.5.2.cpp(후회)
     - **goorm/3.5.3.cpp(후회2)**
+  - 트라이
+    - beakjoon/BOJ_9202_Boggle_P5.java
   - 이분탐색
     - baekjoon/BOJ_1072_게임_S3.java
     - baekjoon/BOJ_1654_랜선자르기_S3.java
