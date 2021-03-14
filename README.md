@@ -89,6 +89,7 @@
   - 세그먼트 트리
     - baekjoon/BOJ_1275_커피숍2_G1.java
     - baekjoon/BOJ_2042_구간합구하기_G1.java
+    - baekjoon/BOJ_2243_사탕상자_P5.java
     - baekjoon/BOJ_2517_달리기_P4.java
     - goorm/2.1.1.cpp(구간 합 구하기)
     - goorm/2.1.2.cpp(거의 최대 공약수)
