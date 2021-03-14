@@ -152,8 +152,10 @@
     - baekjoon/BOJ_5525_IOIOI_S2.java
     - baekjoon/BOJ_5525_IOIOI_S2_1.java : 개선된 풀이
     - baekjoon/BOJ_7568_덩치_S5.java
+    - baekjoon/BOJ_11003_최솟값찾기_P5.java
     - baekjoon/BOJ_10814_나이순정렬_S5.java
     - baekjoon/BOJ_10814_나이순정렬_S5_1.java : 최적화
+    - baekjoon/BOJ_11003_최솟값찾기_P5.java
     - baekjoon/BOJ_11279_최대힙_S2.java
     - baekjoon/BOJ_11652_카드_S4.java
     - baekjoon/BOJ_11866_요세푸스문제0_S4
