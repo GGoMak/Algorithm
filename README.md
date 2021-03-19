@@ -152,7 +152,6 @@
     - baekjoon/BOJ_5525_IOIOI_S2.java
     - baekjoon/BOJ_5525_IOIOI_S2_1.java : 개선된 풀이
     - baekjoon/BOJ_7568_덩치_S5.java
-    - baekjoon/BOJ_11003_최솟값찾기_P5.java
     - baekjoon/BOJ_10814_나이순정렬_S5.java
     - baekjoon/BOJ_10814_나이순정렬_S5_1.java : 최적화
     - baekjoon/BOJ_11003_최솟값찾기_P5.java
@@ -208,6 +207,7 @@
     - kakao/programmers뉴스클러스터링.java(뉴스클러스터링)
     - kakao/programmers셔틀버스.java(셔틀버스)
   - 수학
+    - baekjoon/BOJ_1735_분수합_S2.java
     - goorm/3.4.1.cpp(망가진 에라토스테네스의 체)
   - Knapsack 알고리즘
     - baekjoon/BOJ_12865_평범한배낭_G5.java
