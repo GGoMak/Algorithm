@@ -27,6 +27,8 @@
     - baekjoon/BOJ_12789_도키도키간식드리미_S4.java
     - baekjoon/BOJ_17298_오큰수_G4.java
     - baekjoon/BOJ_17952_과제는끝나지않아_S3.java
+  - 큐
+    - baekjoon/BOJ_1021_회전하는큐_S4.java
   - 트리
     - baekjoon/BOJ_1991_트리순회_S1.java
   - 완전탐색(브루트포스)
