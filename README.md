@@ -213,6 +213,8 @@
     - baekjoon/BOJ_2960_에라토스테네스의체_S4.java
     - baekjoon/BOJ_6588_골드바흐의추측_S1.java
     - goorm/3.4.1.cpp(망가진 에라토스테네스의 체)
+  - Union-Find
+    - baekjoon/BOJ_16562_친구비_G3.java
   - Knapsack 알고리즘
     - baekjoon/BOJ_12865_평범한배낭_G5.java
   - Prim 알고리즘
