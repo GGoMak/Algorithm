@@ -217,6 +217,8 @@
     - baekjoon/BOJ_1717_집합의표현_G4.java
     - baekjoon/BOJ_1976_여행가자_G4.java
     - baekjoon/BOJ_16562_친구비_G3.java
+  - Dijkstra
+    - baekjoon/BOJ_1753_최단경로_G5.java
   - Knapsack 알고리즘
     - baekjoon/BOJ_12865_평범한배낭_G5.java
   - Prim 알고리즘
