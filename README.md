@@ -31,6 +31,7 @@
     - baekjoon/BOJ_17952_과제는끝나지않아_S3.java
   - 큐
     - baekjoon/BOJ_1021_회전하는큐_S4.java
+    - baekjoon/BOJ_10845_큐_S4.java
   - 덱
     - baekjoon/BOJ_10866_덱_S4.java
   - 트리
