@@ -25,6 +25,7 @@
     - baekjoon/BOJ_2504_괄고의값_S2.java
     - baekjoon/BOJ_9935_문자열폭발_G4.java
     - baekjoon/BOJ_12789_도키도키간식드리미_S4.java
+    - baekjoon/BOJ_16120_PPAP_G4.java
     - baekjoon/BOJ_17298_오큰수_G4.java
     - baekjoon/BOJ_17952_과제는끝나지않아_S3.java
   - 큐
