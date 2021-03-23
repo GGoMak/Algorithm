@@ -21,6 +21,7 @@
     - goorm/1.4.2.cpp(게임 설치)
   - 스택
     - baekjoon/BOJ_1874_스택수열_S3.java
+    - baekjoon/BOJ_1935_후위표기식2_S3.java
     - baekjoon/BOJ_2493_탑_G5.java
     - baekjoon/BOJ_2504_괄고의값_S2.java
     - baekjoon/BOJ_9935_문자열폭발_G4.java
