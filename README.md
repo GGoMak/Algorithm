@@ -63,6 +63,7 @@
     - baekjoon/BOJ_1039_교환_G3.java
     - baekjoon/BOJ_1260_DFS와BFS_S2.java
     - baekjoon/BOJ_1261_알고스팟_G4.java
+    - baekjoon/BOJ_1600_말이되고픈원숭이_G5.java
     - baekjoon/BOJ_2178_미로탐색_S1.java
     - baekjoon/2206.cpp(벽 부수고 이동하기)
     - baekjoon/BOJ_2606_바이러스_S3.java
