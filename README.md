@@ -65,6 +65,7 @@
     - baekjoon/BOJ_2178_미로탐색_S1.java
     - baekjoon/2206.cpp(벽 부수고 이동하기)
     - baekjoon/BOJ_2606_바이러스_S3.java
+    - baekjoon/BOJ_2636_치즈_G5.java
     - baekjoon/BOJ_3055_탈출_G5.java
     - baekjoon/BOJ_5427_불_G4.java
     - baekjoon/BOJ_7562_나이트의이동_S2.java
