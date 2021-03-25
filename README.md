@@ -72,6 +72,7 @@
     - baekjoon/BOJ_5427_불_G4.java
     - baekjoon/BOJ_7562_나이트의이동_S2.java
     - baekjoon/BOJ_7576_토마토_S1.java
+    - baekjoon/BOJ_9205_맥주마시면서걸어가기_S1.java
     - baekjoon/13460.cpp(구슬 탈출 2)
     - baekjoon/16236.cpp(아기 상어)
     - baekjoon/19238.cpp(스타트 택시)
