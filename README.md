@@ -15,6 +15,7 @@
   - 그리디 알고리즘
     - baekjoon/BOJ_1202_보석도둑_G2.java
     - baekjoon/BOJ_1339_단어수학_G4.java
+    - baekjoon/BOJ_1715_카드정렬하기_G4.java
     - baekjoon/BOJ_1931_회의실배정_S2.java
     - goorm/1.2.2.cpp(수열 만들기)
     - goorm/1.2.3.cpp(비밀번호 찾기)
