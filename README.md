@@ -50,6 +50,7 @@
     - baekjoon/BOJ_1325_효율적인해킹_S2.java
     - baekjoon/BOJ_1987_알파벳_G4.java
     - baekjoon/BOJ_2842_집배원한상덕_P5.java
+    - baekjoon/BOJ_3109_빵집_G2.java
     - baekjoon/BOJ_9663_N-Queen_G5.java
     - baekjoon/12100.cpp(2048)
     - baekjoon/14889.cpp(스타트와 링크)
