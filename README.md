@@ -137,6 +137,7 @@
     - baekjoon/BOJ_1244_스위치켜고끄기_S4.java
     - baekjoon/BOJ_1431_시리얼번호_S3.java
     - baekjoon/BOJ_1436_영화감독숌_S5.java
+    - baekjoon/BOJ_1620_나는야포켓몬마스터이다솜_S4.java
     - baekjoon/BOJ_1655_가운데를말해요_G2.java
     - baekjoon/BOJ_1713_후보추천하기_S2.java
     - baekjoon/BOJ_1806_부분합_G4.java
