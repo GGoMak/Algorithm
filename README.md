@@ -114,6 +114,8 @@
     - **goorm/3.5.3.cpp(후회2)**
   - 트라이
     - beakjoon/BOJ_9202_Boggle_P5.java
+  - 투 포인터
+    - baekjoon/BOJ_2473_세용액_G4.java
   - 이분탐색
     - baekjoon/BOJ_1072_게임_S3.java
     - baekjoon/BOJ_1654_랜선자르기_S3.java
