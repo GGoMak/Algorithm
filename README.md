@@ -127,6 +127,7 @@
     - baekjoon/BOJ_1103_게임_G1.java
     - baekjoon/BOJ_1106_호텔_S2.java
     - baekjoon/BOJ_2096_내려가기_G4.java
+    - baekjoon/BOJ_2411_아이템먹기_G4.java
     - **baekjoon/14501.cpp(퇴사)**
     - baekjoon/BOJ_20544_공룡게임_G4.java
     - goorm/2.2.2.cpp(스노우보드 대회)
