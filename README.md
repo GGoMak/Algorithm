@@ -79,6 +79,7 @@
     - baekjoon/BOJ_11967_불켜기_G4.java
     - baekjoon/13460.cpp(구슬 탈출 2)
     - baekjoon/16236.cpp(아기 상어)
+    - baekjoon/BOJ_16946_벽부수고이동하기4_G2.java
     - baekjoon/19238.cpp(스타트 택시)
     - baekjoon/20304_비밀번호제작_G1.java
     - goorm/1.3.2.cpp(졸업)
