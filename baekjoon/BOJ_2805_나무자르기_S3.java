@@ -14,7 +14,7 @@ public class BOJ_2805_나무자르기_S3 {
 		N = Integer.parseInt(st.nextToken());
 		M = Integer.parseInt(st.nextToken());
 		
-		ArrayList<Integer> tree = new ArrayList<>();
+		long[] tree = new long[1000001];
 		StringTokenizer st2 = new StringTokenizer(br.readLine());
 		
 		for(int i = 0; i < N; i++) {
@@ -22,7 +22,7 @@ public class BOJ_2805_나무자르기_S3 {
 			if(max < t) {
 				max = t;
 			}
-			tree.add(t);
+			tree[i] = t;
 		}
 		
 		long left = 0, right = max, mid;
