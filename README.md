@@ -72,6 +72,7 @@
     - baekjoon/BOJ_2606_바이러스_S3.java
     - baekjoon/BOJ_2636_치즈_G5.java
     - baekjoon/BOJ_3055_탈출_G5.java
+    - baekjoon/BOJ_4179_불_G4.java
     - baekjoon/BOJ_5427_불_G4.java
     - baekjoon/BOJ_7562_나이트의이동_S2.java
     - baekjoon/BOJ_7576_토마토_S1.java
