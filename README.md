@@ -94,6 +94,7 @@
   - 백트래킹
     - baekjoon/BOJ_1182_부분수열의합_S2.java
     - baekjoon/BOJ_1759_암호만들기_G5.java
+    - baekjoon/BOJ_2239_스도쿠_G4.java
     - baekjoon/BOJ_2580_스도쿠_G4.java
     - baekjoon/BOJ_15649_N과M1_S3.java
     - baekjoon/BOJ_15650_N과M2_S3.java
