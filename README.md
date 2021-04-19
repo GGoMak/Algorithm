@@ -121,6 +121,7 @@
     - baekjoon/BOJ_2473_세용액_G4.java
   - 이분탐색
     - baekjoon/BOJ_1072_게임_S3.java
+    - baekjoon/BOJ_1300_K번째수_G3.java
     - baekjoon/BOJ_1654_랜선자르기_S3.java
     - baekjoon/BOJ_2805_나무자르기_S3.java
     - baekjoon/BOJ_7453_합이0인네정수_G2.java
